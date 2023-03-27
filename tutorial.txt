@@ -7,7 +7,9 @@ Download VM Ware player from the below link
  
  Step-2:
      Now Download the autounlocker given by me!
-     https://github.com/paolo-projects/auto-unlocker/releases
+     Try:https://github.com/paolo-projects/auto-unlocker/releases
+            (if you face problem try below link(you may face problems during patch))
+     GDrive:https://drive.google.com/file/d/17tHCmXUFOkCXYunZey5dXqQBtvsPsA_3/view
      
  Step-3:
       Now download the macOS iso file
