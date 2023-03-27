@@ -1,0 +1,25 @@
+Hello Everyone!
+Excited to use Mac On Windows ^_^
+Yes...You can!
+Download VM Ware player from the below link
+         V
+ https://www.vmware.com/in/products/workstation-player/workstation-player-evaluation.html
+ 
+ Step-2:
+     Now Download the autounlocker given by me!
+     https://github.com/paolo-projects/auto-unlocker/releases
+     
+ Step-3:
+      Now download the macOS iso file
+      MediaFire:https://www.mediafire.com/file/dbfod9u5q9ii9nd/macOS_Big_Sur_11.0.1_%252820B29%2529.iso/file
+      GoogleDrive:https://drive.google.com/file/d/1KkZ4MGMbhAwpaN6bTQV7w90rFgdDuwmt/view
+      
+Step-4:
+   Now run the unlocker click patch...Wait for sometime
+   
+Step-5:
+   Now open the Vmware...regularly install iso file....But split disk to multiple...
+   allocate maximum RAM...(8GB recommended)
+   
+Step-6:
+    You're all done...Enjoy.^_~
